@@ -1,4 +1,4 @@
-[back to home](index.md) : [Greek Civilization](GreekCiv.md)
+[home](index.md) … [CLS220](GreekCiv.md)
 
 # CLS-220, Greek Civilization
 
