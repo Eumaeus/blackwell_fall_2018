@@ -4,7 +4,8 @@
 ## Course Pages
 
 - [Greek 110](Greek110.md)
-- [FYW: Digital Reading, Digital Writing](FYW-DigitalReading.md)
+- [FYW 1293: Digital Reading, Digital Writing](FYW-DigitalReading.md)
+- [CLS 220: Greek Civilization](GreekCiv.md)
 
 ## General Information
 
