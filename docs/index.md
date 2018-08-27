@@ -4,7 +4,7 @@
 ## Course Pages
 
 - [Greek 110](Greek110.md)
-- [FYW: Digital Reading, Digital Writing](FYW-DigitralReading.md)
+- [FYW: Digital Reading, Digital Writing](FYW-DigitalReading.md)
 
 ## General Information
 
