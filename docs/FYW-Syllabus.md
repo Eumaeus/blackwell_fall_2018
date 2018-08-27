@@ -31,3 +31,13 @@ I designed this class hoping that it would introduce you to your Liberal Arts ed
 - Learn specific computational skills.
 - Edit and publish a **validated and verified digital edition of a text**.
 
+## Assignments & Dates
+
+- TBA
+- TBA
+
+## Grading
+
+- TBA
+- TBA
+
