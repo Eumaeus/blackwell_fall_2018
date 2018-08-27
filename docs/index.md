@@ -1,3 +1,8 @@
+---
+title: Home
+---
+
+
 # Courses: Fall 2018
 
 ## Course Pages
