@@ -6,6 +6,7 @@
 
 Present topics
 
+- "Liberal Arts". Liberal? Arts?
 - Basic vocabulary: Text, Edition, Book
 - The Materialist Fallacy: Mistaking the *tool* for the *job*, or confusing the *medium* with the *message*.
 
