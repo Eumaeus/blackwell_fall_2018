@@ -1,4 +1,4 @@
-[back to home](index.md) : [FYW: Digital Reading & Digital Writing](FYW-DigitalReading.md)
+[back to home](index.md) : [FYW-1293](FYW-DigitalReading.md)
 
 # FYW-1293, "Digital Reading; Digital Writing" Syllabus
 
@@ -31,15 +31,25 @@ I designed this class hoping that it would introduce you to your Liberal Arts ed
 - Learn specific computational skills.
 - Edit and publish a **validated and verified digital edition of a text**.
 
-## Assignments & Dates
+### Grading
 
-- TBA
-- TBA
+| Item | Percentage |
+|------|------------|
+| Quizzes | 20% | 
+| Short Assignments | 20% |
+| Final Essay | 20% |
+| Project | 20% |
+| Engagement | 10% |
+| Resourcefullness | 10% |
 
-## Grading
+### Notes
 
-- TBA
-- TBA
+- **Quizzes** These will be daily affairs, very short. You will grade your own. (We will talk about how this works in class). If you are not present, you will earn a zero. If you are present and hand *anything* in, you will earn at least 80% for that quiz. If you score more than 80% on a quiz, you will earn what you score. I will drop any zero resulting from an excused absence. I will drop any three other zeros.
+- **Short Assignments** 
+- **Final Essay**
+- **Project** 
+- **Engagement** This will be my subjective assessment of your engagement with the material *and with the class*. The class is a team engaged in solving a problem: how to read Greek. As a member of that team you are expected to be supportive, active, respectful, cheerful, and as helpful as you can. Each member of the class will bring particular strengths.
+- **Resourcefullness** You are not yet good at Greek, nor are you good at the tools and techniques we will learn. This will be my subjective assessment of the extent to which you work to help yourself, to solve your own problem, to find answers to your questions, and to avoid being generally helpless.
 
 ## Other Resources
 

@@ -2,6 +2,8 @@
 
 # FYW: Digital Reading & Digital Writing
 
+[Course Syllabus](FYW-Syllabus.md)
+
 ## Topics
 
 Present topics
