@@ -1,4 +1,4 @@
-[back to home](index.md) : [GRK-110](Greek110.md)
+[home](index.md) … [GRK-110](Greek110.md)
 
 # GRK-110, Elementary Ancient Greek
 

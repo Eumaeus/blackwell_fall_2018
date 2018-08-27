@@ -14,6 +14,13 @@ Coming soon.
 
 - For Thursday, August 30: 
 
+## Passages Read
+
+- TBD
+
+## Topics Discussed
+
+- TBD
 
 ## Reflection
 
