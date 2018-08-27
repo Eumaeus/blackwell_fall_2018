@@ -4,6 +4,19 @@
 
 # Greek 110, Fall 2018
 
+[Course Syllabus](GRK110-Syllabus.md)
+
+## Assignments & Dates
+
+(Newer assignments will appear at the top of the list.)
+
+- For August 30: Given the *name* of a Greek letter, be able to write it in upper- and lower-case. Understand the difference between "character/grapheme" and "letterform/glyph". Know what a "diacritical mark" is.
+
+## Topics Covered
+
+- Character, grapheme, letterform, glyph, diacritical mark.
+- The Greek Alphabet after 404 BCE.
+
 ## Reflection
 
 The Furman Advantage cites "reflection" as a key component. In this class, "reflection" (which could mean anything), will mean "the ability to talk about what you have done in terms meaningful to people outside of the University".
