@@ -31,3 +31,19 @@ I designed this class hoping that it would introduce you to your Liberal Arts ed
 - Learn specific computational skills.
 - Edit and publish a **validated and verified digital edition of a text**.
 
+## Assignments & Dates
+
+- TBA
+- TBA
+
+## Grading
+
+- TBA
+- TBA
+
+## Other Resources
+
+- [The Student Office for Accessibility Resources](http://www2.furman.edu/studentlife/accessibility/Pages/default.aspx) exists to help with any questions or problems having to do with disability, accommodation, or access.
+- [Academic Affairs](https://www.furman.edu/about-furman/university-leadership/office-of-academic-affairs/) is the place to go for questions, problems, or complaints about courses, exams, attendance, and grading.
+- [Academic Assistance](http://www2.furman.edu/academics/center-for-academic-success/academic-assistance/pages/default.aspx) exists to provide help so you can success; they are excellent and dedicated. They are *not* here only for times of trouble; if you are doing well, they can help you do even better.
+- [Title IX](http://www2.furman.edu/sites/title-ix/Pages/default.aspx) of the Educational Amendments Act of 1972, which amended the Civil Rights Act of 1964, and provides: "No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance". If you *even suspect* that another person (faculty, student, staff, outsider) is behaving improperly toward you this office is there to hear your concerns and advise you.
