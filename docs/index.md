@@ -1,10 +1,9 @@
 # Courses: Fall 2018
 
-## Greek 110
+## Course Pages
 
-## Classics 
-
-## FYW: Digital Reading, Digital Writing
+- [Greek 110](Greek110.md)
+- [FYW: Digital Reading, Digital Writing](FYW-DigitralReading.md)
 
 ## General Information
 
