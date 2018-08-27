@@ -1,7 +1,3 @@
----
-title: Home
----
-
 
 # Courses: Fall 2018
 
