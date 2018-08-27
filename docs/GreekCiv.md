@@ -4,6 +4,8 @@
 
 # Greek Civilization (CLS-222), Fall 2018
 
+[Course Syllabus](CLS220-Syllabus.md)
+
 ## Links to Tools
 
 Coming soon.
