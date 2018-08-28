@@ -14,6 +14,7 @@
 
 ## Topics Covered
 
+- "Dead Language", or, "Closed Production" → "Corpus Linguistics"
 - Character, grapheme, letterform, glyph, diacritical mark.
 - The Greek Alphabet after 404 BCE.
 
