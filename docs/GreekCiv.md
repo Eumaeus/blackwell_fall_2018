@@ -22,7 +22,8 @@ Coming soon.
 
 ## Topics Discussed
 
-- TBD
+- Dates: BCE/CE, BC/AD. 5th Century BCE (400s).
+- Basic geography: The Greek world is focused on the Aegean sea. Halicarnassus and Athens. Where "Barbarians" live.
 
 ## Reflection
 
