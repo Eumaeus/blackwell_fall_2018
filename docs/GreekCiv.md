@@ -14,7 +14,7 @@ Coming soon.
 
 (Newer assignments are added at the top of the list)
 
-- For Thursday, August 30: 
+- For Thursday, August 30: Read the Introduction to Herodotus by Rosalind Thomas, starting on page ix, sections 1.1–2.3. *Write a very, very short summary of each of those sections (there are 5 of them)*. Ideally, one sentence per section, which means you will have to boil each section down to its essence. If you must write two or three sentences to summarize a section, so be it, but **no not write more than 15 sentences in all**. Bring your summaries to class to hand in as a first quiz grade. 
 
 ## Passages Read
 
