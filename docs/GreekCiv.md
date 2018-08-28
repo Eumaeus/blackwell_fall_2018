@@ -18,7 +18,7 @@ Coming soon.
 
 ## Passages Read
 
-- TBD
+- 1.proem
 
 ## Topics Discussed
 
