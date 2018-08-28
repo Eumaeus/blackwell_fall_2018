@@ -4,6 +4,9 @@
 
 C. Blackwell, Department of Classics
 
+`christopher.blackwell@furman.edu`
+
+
 TTh 10:00–11:15
 
 Furman Hall 111
