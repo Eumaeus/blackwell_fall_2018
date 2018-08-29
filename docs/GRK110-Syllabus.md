@@ -16,6 +16,7 @@ In this class you will learn the basics of the ancient Greek language. This is a
 
 - Hansen, Hardy, and Gerald M. Quinn. *Greek: An Intensive Course, 2nd Revised Edition.* Fordham University Press, 1992.
 - [The `fall2018vm` Virtual Machine image](https://github.com/Eumaeus/fall2018vm). Information [here](https://eumaeus.github.io/fall2018vm/)
+- The [POS Tag Generator](http://folio.furman.edu/pos/).
 - The [Atom](https://atom.io) text editor.
 - The [DejaVu fonts](https://dejavu-fonts.github.io).
 

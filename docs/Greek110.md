@@ -18,6 +18,13 @@
 - Character, grapheme, letterform, glyph, diacritical mark.
 - The Greek Alphabet after 404 BCE.
 
+## Links
+
+- [The `fall2018vm` Virtual Machine image](https://github.com/Eumaeus/fall2018vm). Information [here](https://eumaeus.github.io/fall2018vm/)
+- The [POS Tag Generator](http://folio.furman.edu/pos/).
+- The [Atom](https://atom.io) text editor.
+- The [DejaVu fonts](https://dejavu-fonts.github.io).
+
 ## Reflection
 
 The Furman Advantage cites "reflection" as a key component. In this class, "reflection" (which could mean anything), will mean "the ability to talk about what you have done in terms meaningful to people outside of the University".
