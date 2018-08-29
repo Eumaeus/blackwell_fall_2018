@@ -8,7 +8,7 @@
 
 (New assignments will be added to the top.)
 
-1. **Knowing your tools**. For **Friday, August 31**: (a) Bring your computer to class. (b) Bring the following information, typed and printed on a piece of paper: first, the *make and model* of your computer, and second, the *version* of its operating system. *Write this information as complete sentences,* for example: 
+1. [Knowing Your Tools] For **Friday, August 31**: (a) Bring your computer to class. (b) Bring the following information, typed and printed on a piece of paper: first, the *make and model* of your computer, and second, the *version* of its operating system. *Write this information as complete sentences,* for example: 
 
 > "I have a MacBook (Retina, 12 inch, 2017) laptop running macOS High Sierra (10.13.6)."
 
