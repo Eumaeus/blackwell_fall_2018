@@ -24,6 +24,7 @@ Coming soon.
 
 - Dates: BCE/CE, BC/AD. 5th Century BCE (400s).
 - Basic geography: The Greek world is focused on the Aegean sea. Halicarnassus and Athens. Where "Barbarians" live.
+- "Hellene" = "Greek person"; "Hellas" = "Greece"; "Hellenic" = "Greek". But *n.b.* "Hellas" for Herodotus means "wherever in the world there are people who speak Greek, share Greek customs, and worship the same gods." There was no political entity called "Hellas".
 
 ## Reflection
 

@@ -21,8 +21,3 @@ Because students have a variety of computers—Macs and various Windows machines
 - [A short video introduction](https://youtu.be/lSfNQIeb0uo)
 - [A longer video introduction](https://youtu.be/oxuRxtrO2Ag)
 
-### Classics Links
-
-- [Plutarch, *On the Bravery of Women*](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Bravery_of_Women*/home.html)
-- [Cornelius Nepos, *Lives of Eminent Commanders*](http://www.tertullian.org/fathers/nepos.htm#71)
-- [SCOWL (Spell Checker Oriented Word Lists)](http://wordlist.aspell.net)

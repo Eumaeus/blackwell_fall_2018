@@ -34,9 +34,19 @@ Future topics
 - Running a Linux Virtual machine
 
 
-## Writing Assignments
+## Assignments
 
-1. Writing clear instructions.
+(New assignments will be added to the top.)
+
+1. **Knowing your tools**. For **Friday, August 31**: (a) Bring your computer to class. (b) Bring the following information, typed and printed on a piece of paper: first, the *make and model* of your computer, and second, the *version* of its operating system. *Write this information as complete sentences,* for example: "I have a MacBook (Retina, 12 inch, 2017) laptop running macOS High Sierra (10.13.6)."
+
+### Links
+
+- The [Atom](https://atom.io) text editor.
+- [Virtual Machine Image](https://eumaeus.github.io/fall2018vm/)
+- [Plutarch, *On the Bravery of Women*](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Bravery_of_Women*/home.html)
+- [Cornelius Nepos, *Lives of Eminent Commanders*](http://www.tertullian.org/fathers/nepos.htm#71)
+- [SCOWL (Spell Checker Oriented Word Lists)](http://wordlist.aspell.net)
 
 ## Reflection
 
