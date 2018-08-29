@@ -3,6 +3,11 @@
 # FYW-1293, "Digital Reading; Digital Writing" Syllabus
 
 C. Blackwell, Department of Classics
+
+christopher.blackwell@furman.edu
+
+https://eumaeus.github.io
+
 Patricia Puckett Sasser, Director, Maxwell Music Library
 
 MWF 02:30PM - 03:20PM
