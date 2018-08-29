@@ -16,22 +16,34 @@
 
 ## Topics
 
-Present topics
+Present Writing Topics and Skills
 
-- "Liberal Arts". Liberal? Arts?
-- Basic vocabulary: Text, Edition, Book
+- Some basics: sentences, simple, compound, and complex. Connecting with ";", "and", "but".
+- Logical flow.
+- Voice, tense, and mood.
+
+Present Topics and Skills
+
+- "Information technology": the past 3,368 years.
 - The Materialist Fallacy: Mistaking the *tool* for the *job*, or confusing the *medium* with the *message*.
+- Basic vocabulary: Text, Edition, Book
+- Computational Vocabulary: machine, operating system, filesystem, directory/folder, application.
+- File System: GUI
+	- Hierarchical file system
+	- Where is your stuff?
+- Word Processor vs. Text Editor. WYSIWYG.
 
-Future topics
+
+## Topics (Future)
 
 - Copyright (not the same thing as "patent"), Licenses, Public Domain, Fair Use
 - Citation and Quotation
 - Reading and Analysis
 
-## Skills
+## Skills (Future)
 
-- Computational vocabulary: machine, operating system, filesystem, file, directory/folder, application, physical machine vs. virtual machine, host machine, guest machine.
-- File System: Gui and Command-line
+- Computational vocabulary: physical machine vs. virtual machine, host machine, guest machine.
+- File System: Command-line
 	- Hierarchical file system
 	- Where is your stuff?
 - Installing and running a Virtual Machine
