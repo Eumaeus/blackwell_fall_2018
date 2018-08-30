@@ -59,11 +59,11 @@ I designed this class hoping that it would introduce you to your Liberal Arts ed
 
 ## Notes
 
-- **Short Assignments** These will be short assignments of writing, looking things up, or doing something with your computer, designed to build your skills, confidence, and self-reliance.
+- **Short Assignments** These will be short assignments of writing, editing your writing, looking things up, or doing something with your computer, designed to build your skills, confidence, and self-reliance.
 - **Final Essay** This will be the big piece of writing you ultimately produce. It will be graded in stages, the details of which will follow.
 - **Project** This is the digital publication you will do, which will be bound up in your final essay.
 - **Engagement** This will be my subjective assessment of your engagement with the material *and with the class*. The class is a team engaged in solving a problem: how to read Greek. As a member of that team you are expected to be supportive, active, respectful, cheerful, and as helpful as you can. Each member of the class will bring particular strengths.
-- **Resourcefullness** You are not yet good at Greek, nor are you good at the tools and techniques we will learn. This will be my subjective assessment of the extent to which you work to help yourself, to solve your own problem, to find answers to your questions, and to avoid being generally helpless.
+- **Resourcefullness** You are almost certainly not yet good at the things we are going to cover. This will be my subjective assessment of the extent to which you work to help yourself, to solve your own problem, to find answers to your questions, and to avoid being generally helpless. Note that "helping yourself" can include "emailing your teachers with questions"!
 
 ## Other Resources
 
