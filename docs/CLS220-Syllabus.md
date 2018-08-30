@@ -6,10 +6,11 @@ C. Blackwell, Department of Classics
 
 `christopher.blackwell@furman.edu`
 
-
 TTh 10:00–11:15
 
 Furman Hall 111
+
+Course website (assignments, topics, link to syllabus): <https://eumaeus.github.io/blackwell_fall_2018/GreekCiv.html>
 
 ## Overview
 
