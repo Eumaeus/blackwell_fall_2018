@@ -8,6 +8,8 @@ MTHF 08:30–09:20
 
 Furman Hall 111
 
+Course website (assignments, topics, link to syllabus): <https://eumaeus.github.io/blackwell_fall_2018/Greek110.html>
+
 ## Overview
 
 In this class you will learn the basics of the ancient Greek language. This is a very difficult challenge. To meet this challenge we will address Greek vocabulary, morphology, grammar, and syntax (and what those terms mean!). We will talk about the language, its history and relationship to other languages, and about tools for working with Greek. To help you learn, and to give you some specific marketable skills relevant to the 21st century, you will work hands-on building your own digital tools for analyzing Greek.
