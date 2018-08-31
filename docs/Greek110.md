@@ -10,7 +10,7 @@
 
 (Newer assignments will appear at the top of the list.)
 
-- For September 4: Do Pronunciation Exercise (b) on p. 15. Be ready to hand this in for a quiz grade on Tuesday.
+- For September 4: Do Pronunciation Exercise (b) on p. 15. Be ready to hand this in for a quiz grade on Tuesday. Go to <https://atom.io> and install the Atom text editor.
 - For August 31: (1) Know the following, and be able to write an example of each: smooth breathing, rough breathing, acute accent, grave accent, circumflex accent. A quiz will consist of me saying, *e.g.*: "Write the letter alpha with a smooth breathing." You would write "ἀ". (2) Know which characters are *labials*, which are *dentals*, and which are *palatals*. **Bring your computer to class Friday.**
 - For August 30: Given the *name* of a Greek letter, be able to write it in upper- and lower-case. Understand the difference between "character/grapheme" and "letterform/glyph". Know what a "diacritical mark" is.
 
