@@ -8,6 +8,8 @@
 
 (New assignments will be added to the top.)
 
+1. For **Wednesday, September 5**. Write a short set of instructions or recipe teaching a stranger how to do something—make a sandwich, make a milkshake, change a lightbulb. Bring this, typed out and printed, to class and be prepared to share it with your classmates. *Keep the file on your computer in some place where you can find it; we will be working with this more in the future.*
+
 1. [Knowing Your Tools] For **Friday, August 31**: (a) Bring your computer to class. (b) Bring the following information, typed and printed on a piece of paper: first, the *make and model* of your computer, and second, the *version* of its operating system. *Write this information as complete sentences,* for example: 
 
 > "I have a MacBook (Retina, 12 inch, 2017) laptop running macOS High Sierra (10.13.6)."
