@@ -26,6 +26,7 @@ Present Writing Topics and Skills
 
 Present Topics and Skills
 
+- "Technology" = applied science; ideas that are helpful.
 - "Information technology": the past 3,368 years.
 - The Materialist Fallacy: Mistaking the *tool* for the *job*, or confusing the *medium* with the *message*.
 - Basic vocabulary: Text, Edition, Book
