@@ -6,7 +6,7 @@
 
 [Course Syllabus](GRK110-Syllabus.md)
 
-## Assignments & Dates
+## Assignments & Dates 
 
 (Newer assignments will appear at the top of the list.)
 
