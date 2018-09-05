@@ -8,7 +8,7 @@
 
 (New assignments will be added to the top.)
 
-1. For **Friday, September 7**. Rewrite your instructions, incorporating your classmates advice for improvements. Windows users: Download and install the [Git for Windows Installer](https://gitforwindows.org/). Mac users: Locate the Terminal application that is on your computer, at `/Applications/Utilities/Terminal`; open it. Everyone: Download and install the Atom text editor <https://atom.io>. 
+1. For **Friday, September 7**. Rewrite your instructions, incorporating your classmates advice for improvements. Windows users: Download and install the [Git for Windows Installer](https://gitforwindows.org/); agree to all the default settings in the installer. Mac users: Locate the Terminal application that is on your computer, at `/Applications/Utilities/Terminal`; open it. Everyone: Download and install the Atom text editor <https://atom.io>. 
 
 1. For **Wednesday, September 5**. Write a short set of instructions or recipe teaching a stranger how to do something—make a sandwich, make a milkshake, change a lightbulb. Bring this, typed out and printed, to class and be prepared to share it with your classmates. *Keep the file on your computer in some place where you can find it; we will be working with this more in the future.*
 
@@ -30,7 +30,7 @@ Present Topics and Skills
 
 - "Technology" = applied science; ideas that are helpful.
 - "Information technology": the past 3,368 years.
-- The Materialist Fallacy: Mistaking the *tool* for the *job*, or confusing the *medium* with the *message*.
+- The Materialist Fallacy: Mistaking the *tool* for the *job*, or confusing the *medium* with the *message*. (cf. "metonymy")
 - Basic vocabulary: Text, Edition, Book
 - Computational Vocabulary: machine, operating system, filesystem, directory/folder, application.
 - File System: GUI
