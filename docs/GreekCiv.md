@@ -14,7 +14,7 @@ Coming soon.
 
 (Newer assignments are added at the top of the list)
 
-- For Thursday, Sept. 6: Read Herdotus 1.6 and 1.7. **Be sure to read all of the notes.** Be able to say, in one sentence, who Croesus was, from 1.6. Know who the last king of Lydia from the Heraklids was, from 1.7.
+- For Thursday, Sept. 6: Read Herdotus 1.6 and 1.7. **Be sure to read all of the notes.** Be able to say, in one sentence, who Croesus was, from 1.6. Know who the last king of Lydia from the Heraklids was, from 1.7. Know what "Heraklids" means.
 - For Tuesday, Sept. 4: Read Herodotus 1.1-1.5 (pp. 3–5). *Write out* the following:
 	1. Whose account this is.
 	1. A short list of who kidnapped whom.
@@ -35,7 +35,7 @@ Coming soon.
 - Phoenicians
 - [Paul Fussell, *The Great War and Modern Memory*](https://www.amazon.com/Great-War-Modern-Memory/dp/0195133323).
 - Sources for Greek mythology. 
-- Io, Europa, Medea, Helen.
+- Io, Europa, Medea, Helen. Cadmus. Eponymous Hero. Autochthony.
 
 ## Reflection
 
