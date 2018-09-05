@@ -8,7 +8,7 @@
 
 (New assignments will be added to the top.)
 
-1. For **Friday, September 7**. Windows users: Download and install the [Git for Windows Installer](https://gitforwindows.org/). Mac users: Locate the Terminal application that is on your computer, at `/Applications/Utilities/Terminal`; open it. Everyone: Download and install the Atom text editor <https://atom.io>. 
+1. For **Friday, September 7**. Rewrite your instructions, incorporating your classmates advice for improvements. Windows users: Download and install the [Git for Windows Installer](https://gitforwindows.org/). Mac users: Locate the Terminal application that is on your computer, at `/Applications/Utilities/Terminal`; open it. Everyone: Download and install the Atom text editor <https://atom.io>. 
 
 1. For **Wednesday, September 5**. Write a short set of instructions or recipe teaching a stranger how to do something—make a sandwich, make a milkshake, change a lightbulb. Bring this, typed out and printed, to class and be prepared to share it with your classmates. *Keep the file on your computer in some place where you can find it; we will be working with this more in the future.*
 
