@@ -10,6 +10,7 @@
 
 (Newer assignments will appear at the top of the list.)
 
+- For September 7: Complete Accent Drills I (1-10) and II (1-10) on p. 12 of H&Q. 
 - For September 6: Windows users: Download and install the [Git for Windows Installer](https://gitforwindows.org/). Mac users: Go to the Mac App Store; download and install XCode. Go to <http://folio.furman.edu/type/> and practice typing Beta Code by typing Pronunciation Exercise IV on p. 12. Print out the Unicode output to hand in for a quiz grade.
 
 	![Typing Practice](assets/reading.png)
@@ -25,7 +26,12 @@
 - The Greek Alphabet after 404 BCE.
 - Diacritical marks, diphthongs, labials palatals, dentals, and punctuation.
 - "Orthography". Modern orthography of ancient Greek.
-- Inflexion. Unicode ( 21st Century computational orthography) vs. Beta-code ( 20th Century computational Orthography).
+- Unicode ( 21st Century computational orthography) vs. Beta-code ( 20th Century computational Orthography).
+- Accents: acute, grave, circumflex. Recessive Accent. Persistent Accent.
+
+### Topics To Be Covered 
+
+- Inflexion
 - Text Editor vs. Word Processor.
 
 ## Links
