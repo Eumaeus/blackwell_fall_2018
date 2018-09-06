@@ -14,6 +14,7 @@ Coming soon.
 
 (Newer assignments are added at the top of the list)
 
+- For Tuesday, Sept. 11: Read Herodotus 1.8-1.15, about how Gyges became king of Lydia. Be prepared for a very, very short quiz on the details of this story. If you are reading it, and something makes no sense *let me know by email*. Also, know that the *citation scheme* for Herodotus is: "book", "section", "subsection", while the *citation scheme* for the New Testament (by way of comparison) is "chapter" and "verse". So "Herodotus 1.8.1" but "John 2.1".
 - For Thursday, Sept. 6: Read Herdotus 1.6 and 1.7. **Be sure to read all of the notes.** Be able to say, in one sentence, who Croesus was, from 1.6. Know who the last king of Lydia from the Heraklids was, from 1.7. Know what "Heraklids" means.
 - For Tuesday, Sept. 4: Read Herodotus 1.1-1.5 (pp. 3–5). *Write out* the following:
 	1. Whose account this is.
@@ -26,6 +27,7 @@ Coming soon.
 
 - 1.proem
 - 1.1–1.5 (The "Persian Version"; H. states his approach.)
+- 1.6–1.7 (Intro to Croesus, King of Lydia.)
 
 ## Topics Discussed
 
@@ -36,6 +38,7 @@ Coming soon.
 - [Paul Fussell, *The Great War and Modern Memory*](https://www.amazon.com/Great-War-Modern-Memory/dp/0195133323).
 - Sources for Greek mythology. 
 - Io, Europa, Medea, Helen. Cadmus. Eponymous Hero. Autochthony.
+- Geography, *disambiguation*, *canonical reference*: See <https://pleiades.stoa.org>.
 
 ## Reflection
 

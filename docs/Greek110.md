@@ -27,6 +27,7 @@
 - Diacritical marks, diphthongs, labials palatals, dentals, and punctuation.
 - "Orthography". Modern orthography of ancient Greek.
 - Unicode ( 21st Century computational orthography) vs. Beta-code ( 20th Century computational Orthography).
+- File System hierarchy. Root directory (`/`). Home Directory (`/Users/YourName` or `~`).
 - Accents: acute, grave, circumflex. Recessive Accent. Persistent Accent.
 
 ### Topics To Be Covered 
