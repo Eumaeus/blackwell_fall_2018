@@ -1,4 +1,4 @@
-[back to home](index.md)
+[eumaeus.github.io](https://eumaeus.github.io) : [courses home](index.md)
 
 # FYW: Digital Reading & Digital Writing
 
@@ -72,6 +72,7 @@ Present Topics and Skills
 
 ### Links
 
+- [CLI Basics](https://eumaeus.github.io/2018/09/07/cli.html)
 - [“Word Processors: Stupid and Inefficient,” Allin Cottrell](http://ricardo.ecn.wfu.edu/~cottrell/wp.html)
 - The [Atom](https://atom.io) text editor.
 - [Virtual Machine Image](https://eumaeus.github.io/fall2018vm/)

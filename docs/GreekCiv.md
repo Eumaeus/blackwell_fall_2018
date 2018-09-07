@@ -1,6 +1,5 @@
 
-[back to home](index.md)
-
+[eumaeus.github.io](https://eumaeus.github.io) : [courses home](index.md)
 
 # Greek Civilization (CLS-222), Fall 2018
 

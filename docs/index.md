@@ -1,3 +1,4 @@
+[eumaeus.github.io](https://eumaeus.github.io) 
 
 # Courses: Fall 2018
 
@@ -8,6 +9,8 @@
 - [CLS 220: Greek Civilization](GreekCiv.md)
 
 ## General Information
+
+[A basic introduction to the Unix command line](https://eumaeus.github.io/2018/09/07/cli.html)
 
 ### Virtual Machine Environment
 

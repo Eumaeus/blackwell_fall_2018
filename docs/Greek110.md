@@ -1,5 +1,5 @@
 
-[back to home](index.md)
+[eumaeus.github.io](https://eumaeus.github.io) : [courses home](index.md)
 
 
 # Greek 110, Fall 2018
@@ -40,6 +40,7 @@
 
 ## Links
 
+- [A basic introduction to the Unix command line](https://eumaeus.github.io/2018/09/07/cli.html)
 - [The `fall2018vm` Virtual Machine image](https://github.com/Eumaeus/fall2018vm). Information [here](https://eumaeus.github.io/fall2018vm/)
 - [Type Greek](http://folio.furman.edu/type/): Type beta-code in a web-page; get nice, normalized Unicode that you can copy elsewhere.
 - [Sophokeys](http://www.benjaminblonder.org/sophokeys/): A polytonic Greek keyboard for MacOS, based on Beta Code.
