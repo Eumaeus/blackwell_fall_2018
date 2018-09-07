@@ -5,10 +5,12 @@
 [Course Syllabus](FYW-Syllabus.md)
 
 ## Assignments
-
+ 
 (New assignments will be added to the top.)
 
-1. For **Friday, September 7**. Rewrite your instructions, incorporating your classmates advice for improvements (or not). Hand in the first draft, perhaps marked up, and a new one. Windows users: Download and install the [Git for Windows Installer](https://gitforwindows.org/); agree to all the default settings in the installer. Mac users: Locate the Terminal application that is on your computer, at `/Applications/Utilities/Terminal`; open it. Everyone: Download and install the Atom text editor <https://atom.io>. 
+1. For **Monday, September 10**. Read the (opinionated) essay[“Word Processors: Stupid and Inefficient,” Allin Cottrell](http://ricardo.ecn.wfu.edu/~cottrell/wp.html). Write a five-sentence (no more, no fewer) summary of the article. Expect to read your summary aloud to the class.
+
+1. For **Friday, September 7**. Rewrite your instructions, incorporating your classmates advice for improvements (or not). Hand in the first draft, perhaps marked up, and a new one. Windows users: Download and install the [Git for Windows Installer](https://gitforwindows.org/); agree to all the default settings in the installer. Mac users: Locate the Terminal application that is on your computer, at `/Applications/Utilities/Terminal`; open it. Everyone: Download and install the Atom text editor <https://atom.io>. **File for demonstrating a digital text [link](https://www.dropbox.com/s/6doem04krei59es/FYW-DigitalReading.md?dl=0).**
 
 1. For **Wednesday, September 5**. Write a short set of instructions or recipe teaching a stranger how to do something—make a sandwich, make a milkshake, change a lightbulb. Bring this, typed out and printed, to class and be prepared to share it with your classmates. *Keep the file on your computer in some place where you can find it; we will be working with this more in the future.*
 
@@ -70,6 +72,7 @@ Present Topics and Skills
 
 ### Links
 
+- [“Word Processors: Stupid and Inefficient,” Allin Cottrell](http://ricardo.ecn.wfu.edu/~cottrell/wp.html)
 - The [Atom](https://atom.io) text editor.
 - [Virtual Machine Image](https://eumaeus.github.io/fall2018vm/)
 - [Plutarch, *On the Bravery of Women*](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Bravery_of_Women*/home.html)
