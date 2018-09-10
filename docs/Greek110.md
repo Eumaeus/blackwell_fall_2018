@@ -10,6 +10,14 @@
 
 (Newer assignments will appear at the top of the list.)
 
+- For September 11: In a file named `exercises_1.txt`, type out in Beta-code Unit 1 Exercises, 1-10, on p. 36. Test your typing by pasting each sentence into the [Type Greek](http://folio.furman.edu/type/) webpage. In your file, have the beta-code on one line, followed by a blank line, followed by the Unicode version produced by the web-app:
+
+> `o( *o(/mhros to\n a)/nqrwpon paideu/ei.`
+> 
+> ὁ Ὅμηρος τὸν ἄνθρωπον παιδεύει.
+
+Do not include the numbers, or any text except a beta-code / unicode pair for each sentence.
+
 - For September 10: Complete Accent Drills I (1-10) and II (1-10) on p. 12 of H&Q. If we have not done so in class, do the following:
 	- Go to <https://eumaeus.github.io/fall2018vm/>
 	- Follow the instructions under **Setup**. 
