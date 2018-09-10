@@ -8,6 +8,8 @@
  
 (New assignments will be added to the top.)
 
+1. For **Wednesday, September 12**. Create a plain text file named `insructions.md` in `fall2018vm/fyw/writing`. Using the Atom text editor, paste the text of your (already written) instruction assignment into that file. Format it into headings, lists, and paragraphs using [Markdown](https://daringfireball.net/projects/markdown/syntax). Be able to preview it in Atom.
+
 1. For **Monday, September 10**. Read the (opinionated) essay[“Word Processors: Stupid and Inefficient,” Allin Cottrell](http://ricardo.ecn.wfu.edu/~cottrell/wp.html). Write a five-sentence (no more, no fewer) summary of the article. Expect to read your summary aloud to the class.
 
 1. For **Friday, September 7**. Rewrite your instructions, incorporating your classmates advice for improvements (or not). Hand in the first draft, perhaps marked up, and a new one. Windows users: Download and install the [Git for Windows Installer](https://gitforwindows.org/); agree to all the default settings in the installer. Mac users: Locate the Terminal application that is on your computer, at `/Applications/Utilities/Terminal`; open it. Everyone: Download and install the Atom text editor <https://atom.io>. **File for demonstrating a digital text [link](https://www.dropbox.com/s/6doem04krei59es/FYW-DigitalReading.md?dl=0).**
@@ -39,6 +41,9 @@ Present Topics and Skills
 	- Hierarchical file system
 	- Where is your stuff?
 - Word Processor vs. Text Editor. WYSIWYG.
+- Colon vs. Semi-colon. 
+
+	> You need three things: courage, strength, and modesty. With these, you cannot fail; success is guaranteed.
 
 
 ## Topics (Future)
