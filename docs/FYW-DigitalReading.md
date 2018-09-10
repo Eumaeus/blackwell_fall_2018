@@ -8,7 +8,9 @@
  
 (New assignments will be added to the top.)
 
-1. For **Wednesday, September 12**. Create a plain text file named `insructions.md` in `fall2018vm/fyw/writing`. Using the Atom text editor, paste the text of your (already written) instruction assignment into that file. Format it into headings, lists, and paragraphs using [Markdown](https://daringfireball.net/projects/markdown/syntax). Be able to preview it in Atom.
+1. For **Friday, September 14**. Create a plain text file named `insructions.md` in `fall2018vm/fyw/writing`. Using the Atom text editor, paste the text of your (already written) instruction assignment into that file. Format it into headings, lists, and paragraphs using [Markdown](https://daringfireball.net/projects/markdown/syntax). Be able to preview it in Atom.
+
+1. For **Wednesday, September 12**. Get [VirtualBox](https://www.virtualbox.org) and [Vagrant](https://www.vagrantup.com). Clone the VM. Full instructions are at <https://eumaeus.github.io/fall2018vm/>.
 
 1. For **Monday, September 10**. Read the (opinionated) essay[“Word Processors: Stupid and Inefficient,” Allin Cottrell](http://ricardo.ecn.wfu.edu/~cottrell/wp.html). Write a five-sentence (no more, no fewer) summary of the article. Expect to read your summary aloud to the class.
 
