@@ -44,6 +44,7 @@ Present Topics and Skills
 	- Where is your stuff?
 - Word Processor vs. Text Editor. WYSIWYG.
 - Colon vs. Semi-colon. 
+- Virtual Machines, what they are used for. "The Cloud" (*i.e.* "someone else's computer")
 
 	> You need three things: courage, strength, and modesty. With these, you cannot fail; success is guaranteed.
 
