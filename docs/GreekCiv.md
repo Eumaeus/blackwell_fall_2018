@@ -13,6 +13,7 @@ Coming soon.
 
 (Newer assignments are added at the top of the list)
 
+- For Thursday, Sept 13, and Tuesday, Sept. 18: Read Herodotus 1.16-1.25. Be prepared, on Tuesday, to answer some basic questions about this passage, especially about Sadyattes' war against Miletus, and the story of Arion.
 - For Tuesday, Sept. 11: Read Herodotus 1.8-1.15, about how Gyges became king of Lydia. Be prepared for a very, very short quiz on the details of this story. If you are reading it, and something makes no sense *let me know by email*. Also, know that the *citation scheme* for Herodotus is: "book", "section", "subsection", while the *citation scheme* for the New Testament (by way of comparison) is "chapter" and "verse". So "Herodotus 1.8.1" but "John 2.1".
 - For Thursday, Sept. 6: Read Herdotus 1.6 and 1.7. **Be sure to read all of the notes.** Be able to say, in one sentence, who Croesus was, from 1.6. Know who the last king of Lydia from the Heraklids was, from 1.7. Know what "Heraklids" means.
 - For Tuesday, Sept. 4: Read Herodotus 1.1-1.5 (pp. 3–5). *Write out* the following:
@@ -38,6 +39,7 @@ Coming soon.
 - Sources for Greek mythology. 
 - Io, Europa, Medea, Helen. Cadmus. Eponymous Hero. Autochthony.
 - Geography, *disambiguation*, *canonical reference*: See <https://pleiades.stoa.org>.
+- Barbara Tuckman's definition of "Folly".
 
 ## Reflection
 
