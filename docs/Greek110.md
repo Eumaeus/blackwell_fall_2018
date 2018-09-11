@@ -10,6 +10,7 @@
 
 (Newer assignments will appear at the top of the list.)
 
+- For September 13: Be able to name the five *cases* of Greek, in their conventional order: nominative, genitive, dative, accusative, vocative. Be able to name the three *genders* in Greek: masculine, feminine, neuter. Be able to name the three *numbers*: singular, dual, plural.
 - For September 11: In a file named `exercises_1.txt`, type out in Beta-code Unit 1 Exercises, 1-10, on p. 36. Test your typing by pasting each sentence into the [Type Greek](http://folio.furman.edu/type/) webpage. In your file, have the beta-code on one line, followed by a blank line, followed by the Unicode version produced by the web-app:
 
 > `o( *o(/mhros to\n a)/nqrwpon paideu/ei.`
