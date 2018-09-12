@@ -80,6 +80,7 @@ Present Topics and Skills
 
 ### Links
 
+- [CITE App](http://folio.furman.edu/cite.html)
 - [CLI Basics](https://eumaeus.github.io/2018/09/07/cli.html)
 - [“Word Processors: Stupid and Inefficient,” Allin Cottrell](http://ricardo.ecn.wfu.edu/~cottrell/wp.html)
 - The [Atom](https://atom.io) text editor.
