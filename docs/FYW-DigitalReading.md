@@ -8,6 +8,8 @@
  
 (New assignments will be added to the top.)
 
+1. For **Wednesday, September 19**. Read the [Wikipedia article on Cornelius Nepos](https://en.wikipedia.org/wiki/Cornelius_Nepos). Come in ready to talk about the question: "Is this article helpful? Is it trustworthy?"
+
 1. For **Friday, September 14**. Create a plain text file named `insructions.md` in `fall2018vm/fyw/writing`. Using the Atom text editor, paste the text of your (already written) instruction assignment into that file. Format it into headings, lists, and paragraphs using [Markdown](https://daringfireball.net/projects/markdown/syntax). Be able to preview it in Atom.
 
 1. For **Wednesday, September 12**. Get [VirtualBox](https://www.virtualbox.org) and [Vagrant](https://www.vagrantup.com). Clone the VM. Full instructions are at <https://eumaeus.github.io/fall2018vm/>.
@@ -80,6 +82,7 @@ Present Topics and Skills
 
 ### Links
 
+- [Regular Expression Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/)
 - [CITE App](http://folio.furman.edu/cite.html)
 - [CLI Basics](https://eumaeus.github.io/2018/09/07/cli.html)
 - [“Word Processors: Stupid and Inefficient,” Allin Cottrell](http://ricardo.ecn.wfu.edu/~cottrell/wp.html)
