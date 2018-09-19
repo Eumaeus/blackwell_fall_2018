@@ -5,8 +5,10 @@
 [Course Syllabus](FYW-Syllabus.md)
 
 ## Assignments
- 
+
 (New assignments will be added to the top.)
+
+1. For **Friday, September 21**. Come into class with (a) Atom opened and Jane Austen's *Pride and Prejudice* loaded on your screen; (2) a Terminal open, in which you have done `cd ~/Desktop/fall2018vm/fyw-scala/data` and confirmed it with `pwd` or `ls`.
 
 1. For **Wednesday, September 19**. Read the [Wikipedia article on Cornelius Nepos](https://en.wikipedia.org/wiki/Cornelius_Nepos). Come in ready to talk about the question: "Is this article helpful? Is it trustworthy?"
 
@@ -20,7 +22,7 @@
 
 1. For **Wednesday, September 5**. Write a short set of instructions or recipe teaching a stranger how to do something—make a sandwich, make a milkshake, change a lightbulb. Bring this, typed out and printed, to class and be prepared to share it with your classmates. *Keep the file on your computer in some place where you can find it; we will be working with this more in the future.*
 
-1. [Knowing Your Tools] For **Friday, August 31**: (a) Bring your computer to class. (b) Bring the following information, typed and printed on a piece of paper: first, the *make and model* of your computer, and second, the *version* of its operating system. *Write this information as complete sentences,* for example: 
+1. [Knowing Your Tools] For **Friday, August 31**: (a) Bring your computer to class. (b) Bring the following information, typed and printed on a piece of paper: first, the *make and model* of your computer, and second, the *version* of its operating system. *Write this information as complete sentences,* for example:
 
 > "I have a MacBook (Retina, 12 inch, 2017) laptop running macOS High Sierra (10.13.6)."
 
@@ -45,7 +47,7 @@ Present Topics and Skills
 	- Hierarchical file system
 	- Where is your stuff?
 - Word Processor vs. Text Editor. WYSIWYG.
-- Colon vs. Semi-colon. 
+- Colon vs. Semi-colon.
 - Virtual Machines, what they are used for. "The Cloud" (*i.e.* "someone else's computer")
 
 	> You need three things: courage, strength, and modesty. With these, you cannot fail; success is guaranteed.
