@@ -15,7 +15,7 @@
 
 (Newer assignments are added at the top of the list)
 
-- For Tuesday, Sept. 25: Bring in the list of *placenames* in your assigned passage of Herodotus. Read through Herodotus 1.45. The first stories about Croesus of Lydia. Write a *very short* summary, to hand in, of two parts of this narrative:
+- For Tuesday, Sept. 25: Bring in the list of *placenames* in your assigned passage of Herodotus, and any questions about them. Read through Herodotus 1.45. The first stories about Croesus of Lydia. Write a *very short* summary, to hand in, of two parts of this narrative:
 	1. What happened between Croesus and Solon.
 	1. The story of Adrastus and Croesus' son, Atys.
 - For Thursday, Sept 20, and Tuesday, Sept. 18: Read Herodotus 1.16-1.25. Be prepared, on Thursday, to answer some basic questions about this passage, especially about Sadyattes' war against Miletus, and the story of Arion.
@@ -33,6 +33,7 @@
 - 1.proem
 - 1.1–1.5 (The "Persian Version"; H. states his approach.)
 - 1.6–1.7 (Intro to Croesus, King of Lydia.)
+- 1.8–1.25 (Alyattes, Arion)
 
 ## Topics Discussed
 
@@ -46,7 +47,7 @@
 - Barbara Tuckman's definition of "Folly".
 - Geography, *disambiguation*, *canonical reference*: See <https://pleiades.stoa.org>.
 - Hodological vs. Cartographic thinking; "turn-by-turn" directions vs. looking at a map
-- "Sexy Time" : Selection, Exclusion, Transformation = Map. How this might work for History as well.
+- "Sexy Time" : Selection + Exclusion + Transformation = Map. How this might work for History as well.
 - Delphi and Oracles. Dedications and monuments as "evidence."
 - Psy-ops in war. Arion and the dolphin.
 
