@@ -43,9 +43,10 @@
 - [Paul Fussell, *The Great War and Modern Memory*](https://www.amazon.com/Great-War-Modern-Memory/dp/0195133323).
 - Sources for Greek mythology. 
 - Io, Europa, Medea, Helen. Cadmus. Eponymous Hero. Autochthony.
+- Barbara Tuckman's definition of "Folly".
 - Geography, *disambiguation*, *canonical reference*: See <https://pleiades.stoa.org>.
 - Hodological vs. Cartographic thinking; "turn-by-turn" directions vs. looking at a map
-- Barbara Tuckman's definition of "Folly".
+- "Sexy Time" : Selection, Exclusion, Transformation = Map. How this might work for History as well.
 - Delphi and Oracles. Dedications and monuments as "evidence."
 - Psy-ops in war. Arion and the dolphin.
 
