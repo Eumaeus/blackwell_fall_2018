@@ -10,6 +10,7 @@
 
 (Newer assignments will appear at the top of the list.)
 
+- For Friday, September 21: Study the forms of the definite article. The quiz will be on producing the 24 forms, as last time. Try to come to class with Atom up and running, as well as your VM. 
 - For Thursday, September 20: Take notes on the Vocabulary for Chapter 1. [Validate with the Virtual Machine.](https://eumaeus.github.io/fall2018vm/). 
 - For Tuesday, September 18: [Be able to start, log in to, log out of, and stop the Virtual Machine](https://eumaeus.github.io/fall2018vm/). **Learn the forms of the definite article (p. 28) and be able to write them out, in order, for a quiz.**
 - For September 13: Be able to name the five *cases* of Greek, in their conventional order: nominative, genitive, dative, accusative, vocative. Be able to name the three *genders* in Greek: masculine, feminine, neuter. Be able to name the three *numbers*: singular, dual, plural.
