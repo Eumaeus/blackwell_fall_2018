@@ -7,12 +7,17 @@
 
 ## Links to Tools
 
-Coming soon.
+- [Pleiades](https://pleiades.stoa.org): an ancient world *gazeteer*.
+- [Pelagios](https://www.pelagios.org): Annotate a text.
+- [geojson.io](http://geojson.io/#map=2/20.0/0.0): Create geographic data.
 
 ## Assignments & Dates
 
 (Newer assignments are added at the top of the list)
 
+- For Tuesday, Sept. 25: Read through Herodotus 1.45. The first stories about Croesus of Lydia. Write a *very short* summar, to hand in, of two parts of this narrative:
+	1. What happened between Croesus and Solon.
+	1. The story of Adrastus and Croesus' son, Atys.
 - For Thursday, Sept 20, and Tuesday, Sept. 18: Read Herodotus 1.16-1.25. Be prepared, on Thursday, to answer some basic questions about this passage, especially about Sadyattes' war against Miletus, and the story of Arion.
 - For Tuesday, Sept. 11: Read Herodotus 1.8-1.15, about how Gyges became king of Lydia. Be prepared for a very, very short quiz on the details of this story. If you are reading it, and something makes no sense *let me know by email*. Also, know that the *citation scheme* for Herodotus is: "book", "section", "subsection", while the *citation scheme* for the New Testament (by way of comparison) is "chapter" and "verse". So "Herodotus 1.8.1" but "John 2.1".
 - For Thursday, Sept. 6: Read Herdotus 1.6 and 1.7. **Be sure to read all of the notes.** Be able to say, in one sentence, who Croesus was, from 1.6. Know who the last king of Lydia from the Heraklids was, from 1.7. Know what "Heraklids" means.
@@ -39,7 +44,10 @@ Coming soon.
 - Sources for Greek mythology. 
 - Io, Europa, Medea, Helen. Cadmus. Eponymous Hero. Autochthony.
 - Geography, *disambiguation*, *canonical reference*: See <https://pleiades.stoa.org>.
+- Hodological vs. Cartographic thinking; "turn-by-turn" directions vs. looking at a map
 - Barbara Tuckman's definition of "Folly".
+- Delphi and Oracles. Dedications and monuments as "evidence."
+- Psy-ops in war. Arion and the dolphin.
 
 ## Reflection
 
