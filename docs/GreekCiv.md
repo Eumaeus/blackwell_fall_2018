@@ -15,7 +15,7 @@
 
 (Newer assignments are added at the top of the list)
 
-- For Tuesday, Sept. 25: Bring in the list of *placenames* in your assigned passage of Herodotus. Read through Herodotus 1.45. The first stories about Croesus of Lydia. Write a *very short* summar, to hand in, of two parts of this narrative:
+- For Tuesday, Sept. 25: Bring in the list of *placenames* in your assigned passage of Herodotus. Read through Herodotus 1.45. The first stories about Croesus of Lydia. Write a *very short* summary, to hand in, of two parts of this narrative:
 	1. What happened between Croesus and Solon.
 	1. The story of Adrastus and Croesus' son, Atys.
 - For Thursday, Sept 20, and Tuesday, Sept. 18: Read Herodotus 1.16-1.25. Be prepared, on Thursday, to answer some basic questions about this passage, especially about Sadyattes' war against Miletus, and the story of Arion.
