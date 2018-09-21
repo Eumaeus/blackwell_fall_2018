@@ -8,6 +8,8 @@
 
 (New assignments will be added to the top.)
 
+1. For **Monday, September 24**. Look at [Plutarch, *On the Bravery of Women*](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Bravery_of_Women*/home.html) and [Cornelius Nepos, *Lives of Eminent Commanders*](http://www.tertullian.org/fathers/nepos.htm#71). Don't worry if much of the history / mythology is alien to you. From a reading of both (which can be quick) make a list of 5 chapters that you might like to work with, either 3 "Bravery of Women" and 2 "Commanders", or 2 and 3, respectively; for each include a one-sentence statement of *something* interesting in the selection. Rank them in order of preference. Hand this in as a "short assignment".
+
 1. For **Friday, September 21**. Come into class with (a) Atom opened and Jane Austen's *Pride and Prejudice* loaded on your screen; (2) a Terminal open, in which you have done `cd ~/Desktop/fall2018vm/fyw-scala/data` and confirmed it with `pwd` or `ls`.
 
 1. For **Wednesday, September 19**. Read the [Wikipedia article on Cornelius Nepos](https://en.wikipedia.org/wiki/Cornelius_Nepos). Come in ready to talk about the question: "Is this article helpful? Is it trustworthy?"
