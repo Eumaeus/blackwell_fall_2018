@@ -10,6 +10,7 @@
 
 (Newer assignments will appear at the top of the list.)
 
+- For Monday, September 24: Prepare Unit 1 Exercises, on p. 36, numbers 1-10. That is, type them out into a file named "unit1.txt" in `~/Desktop/fall2018vm/ez-morph/documents/`, be able to read them aloud in Greek, and make a first attempt at translating them. **Also**, study for a short quiz on the definite article: given a form, *e.g.* τήν, give its gender, case, and number ("feminine, accusative, singular" for τήν).
 - For Friday, September 21: Study the forms of the definite article. The quiz will be on producing the 24 forms, as last time. Try to come to class with Atom up and running, as well as your VM. 
 - For Thursday, September 20: Take notes on the Vocabulary for Chapter 1. [Validate with the Virtual Machine.](https://eumaeus.github.io/fall2018vm/). 
 - For Tuesday, September 18: [Be able to start, log in to, log out of, and stop the Virtual Machine](https://eumaeus.github.io/fall2018vm/). **Learn the forms of the definite article (p. 28) and be able to write them out, in order, for a quiz.**
