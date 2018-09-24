@@ -19,10 +19,12 @@ You will present your work to the class, following **but not reading verbatim** 
 | Points | Graded Item |
 |--------|-------------|
 | 2      | Script: grammar, syntax, spelling |
+| 2      | Script: technical aspects, Markdown, `.docx` conversion |
 | 4      | Script: content |
 | 2      | Presentation: tasteful design     |
-| 4      | Presentation: on time |
+| 2      | Presentation: on time |
 | 6      | Presentation: content | 
 | 2      | Presentation: delivery |
-| **25**     | **Total Points** |
+| **25** | **Total Points** |
 
+For this, you can rely on the text alone; you do not need to do original research. At a subsequent stage, you will have to find other sources for the topics discussed in your passage.
