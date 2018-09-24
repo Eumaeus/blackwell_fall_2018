@@ -25,6 +25,6 @@ You will present your work to the class, following **but not reading verbatim** 
 | 2      | Presentation: on time |
 | 6      | Presentation: content | 
 | 2      | Presentation: delivery |
-| **25** | **Total Points** |
+| **20** | **Total Points** |
 
 For this, you can rely on the text alone; you do not need to do original research. At a subsequent stage, you will have to find other sources for the topics discussed in your passage.
