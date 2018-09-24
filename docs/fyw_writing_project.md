@@ -8,7 +8,7 @@ The main project for this class will be a *digital edition* of an English transl
 
 (1/4 of the 40% of Final Essay Grade, 10% of final grade.)
 
-A Keynote or Powerpoint presentation of **no more than 7 minutes**, teaching an audience about your chosen story or figure, offering basic information and compelling illustrations.
+A Keynote or Powerpoint (*vel sim.*) presentation of **no more than 7 minutes**, teaching an audience about your chosen story or figure, offering basic information and compelling illustrations.
 
 You will prepare a **script** for your presentation, in the form of a Markdown document. 
 
