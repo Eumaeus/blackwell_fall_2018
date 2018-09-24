@@ -4,9 +4,13 @@
 
 [Course Syllabus](FYW-Syllabus.md)
 
+[Writing Assignment Overview](fyw_writing_project.md)
+
 ## Assignments
 
 (New assignments will be added to the top.)
+
+1. For **Wednesday, September 26**. 
 
 1. For **Monday, September 24**. Look at [Plutarch, *On the Bravery of Women*](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Bravery_of_Women*/home.html) and [Cornelius Nepos, *Lives of Eminent Commanders*](http://www.tertullian.org/fathers/nepos.htm#71). Don't worry if much of the history / mythology is alien to you. From a reading of both (which can be quick) make a list of 5 chapters that you might like to work with, either 3 "Bravery of Women" and 2 "Commanders", or 2 and 3, respectively; for each include a one-sentence statement of *something* interesting in the selection. Rank them in order of preference. Hand this in as a "short assignment".
 
