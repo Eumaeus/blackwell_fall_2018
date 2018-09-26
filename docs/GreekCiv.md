@@ -51,6 +51,7 @@
 - "Sexy Time" : Selection + Exclusion + Transformation = Map. How this might work for History as well.
 - Delphi and Oracles. Dedications and monuments as "evidence."
 - Psy-ops in war. Arion and the dolphin.
+- Solon and Fortune (Cleobis and Biton)
 
 ## Reflection
 
