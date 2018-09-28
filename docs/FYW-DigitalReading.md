@@ -10,6 +10,10 @@
 
 (New assignments will be added to the top.)
 
+1. For **Monday, October 1**. Write a *list of bullet points* you might like to make in a short presentation. If you need to look something up, do so, and make a note of what you looked up and where. If it is a scholarly article, try to use Zotero. [Download and install Zotero and the Zotero Connector for your browser](https://www.zotero.org/download/).[^zotero]
+
+[^zotero]: Alas, Zotero no longer works with Safari.
+
 1. For **Friday, September 28**. Read [the Wikipedia article on the Loeb Classical Library](https://en.wikipedia.org/wiki/Loeb_Classical_Library), down through the "History" part. Read [this article by Emily Wilson](http://www.slate.com/articles/arts/books/2006/08/found_in_translation.html) about the Loeb Classical Library. Come to class ready to talk about these.
 
 1. For **Wednesday, September 26**. Read **carefully** the Prefaces to both [Plutarch, *On the Bravery of Women*](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Bravery_of_Women*/A.html) and [Cornelius Nepos, *Lives of Eminent Commanders*](http://www.tertullian.org/fathers/nepos.htm#71). Be prepared for a very short quiz on both, and to discuss them in class. (These are hard to read, and dense, but they are also short.)
