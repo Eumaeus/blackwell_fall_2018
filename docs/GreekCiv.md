@@ -15,6 +15,8 @@
 
 (Newer assignments are added at the top of the list)
 
+- For Thursday, October 11: Study for the Greek Alphabet / Transliteration test. Read Herodotus 1.
+- **No Class Thursday, Oct. 4**.
 - For Tuesday, Oct. 2: Go to <https://github.com>. "Sign up" for a (free) GitHub accound. **Remember your username and password.** Read [this short overview of Athenian history](https://www.ancient.eu/Athens/), since the next Herodotus readings will be about Athens.
 - For Thursday, Sept. 27: Read through Herodotus 1.56, on how Croesus consulted the oracle. **Regarding your place names:** 1. Get a Pleiades ID for each of your places. 2. Is any of them a region or island? If so, go to [geojson.io](http://geojson.io/#map=2/20.0/0.0), and draw a region around it, saving the resulting GeoJSON data somewhere.
 - For Tuesday, Sept. 25: Bring in the list of *placenames* in your assigned passage of Herodotus, and any questions about them. Read through Herodotus 1.45. The first stories about Croesus of Lydia. Write a *very short* summary, to hand in, of two parts of this narrative:
