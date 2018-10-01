@@ -10,6 +10,7 @@
 
 (Newer assignments will appear at the top of the list.)
 
+- For Tuesday, October 2: Add the Principle Parts of four verbs--πέμπω, παιδεύω, κελεύω, λύω--to the `forms.cex` file; validate. Be able to prove it works by doing (*e.g.*) `lookup("λύσω")`.
 - For Monday, October 1: Document the new vocabulary for Unit 2 (p. 53) in your `lexicon.cex` file. Validate frequently!
 - For Friday, September 28: Print out to hand in your computer-generated analysis of Exercises 1–10 on p. 36. **Study for a quiz** on the forms of the definite article. It will follow the pattern of the last one.
 - For Monday, September 24: Prepare Unit 1 Exercises, on p. 36, numbers 1-10. That is, type them out into a file named "unit1.txt" in `~/Desktop/fall2018vm/ez-morph/documents/`, be able to read them aloud in Greek, and make a first attempt at translating them. **Also**, study for a short quiz on the definite article: given a form, *e.g.* τήν, give its gender, case, and number ("feminine, accusative, singular" for τήν).
