@@ -10,7 +10,7 @@
 
 (Newer assignments will appear at the top of the list.)
 
-- For Thursday, October 11: Study for a quiz on the Principal Parts of πέμπω, παιδεύω, κελεύω, λύω, being able to write them and identify each one as to tense, voice, mood, person, and number. Work on the `unit2-template.txt` file in `/ez-morph/documents/`. 
+- For Thursday, October 11: Study for a quiz on the Principal Parts of πέμπω, παιδεύω, κελεύω, λύω, being able to write them and identify each one as to tense, voice, mood, person, and number. **Know which verb forms are made from which principal part (by reading the chapter in Hansen and Quinn).** Work on the `unit2-template.txt` file in `/ez-morph/documents/`. 
 - For Tuesday, October 2: Add the Principle Parts of four verbs--πέμπω, παιδεύω, κελεύω, λύω--to the `forms.cex` file; validate. Be able to prove it works by doing (*e.g.*) `lookup("λύσω")`. **Read the text of Chapter 2 in Hansen and Quinn**.
 - For Monday, October 1: Document the new vocabulary for Unit 2 (p. 53) in your `lexicon.cex` file. Validate frequently!
 - For Friday, September 28: Print out to hand in your computer-generated analysis of Exercises 1–10 on p. 36. **Study for a quiz** on the forms of the definite article. It will follow the pattern of the last one.
