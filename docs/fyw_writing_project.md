@@ -4,6 +4,20 @@
 
 The main project for this class will be a *digital edition* of an English translation of an ancient work. This assignment will be accomplished in parts. The result will be the "project" and the "final essay" noted on the syllabus. Together they will constitute 40% of the final grade, but they will be graded incrementally.
 
+## Terms, Ideas, and Values
+
+**Edition** A version of a text created according to stated goals and values. 
+
+**Electronic Text** A text encoded in some digital form: web page, pdf, word processing document, image.
+
+**Digital Edition** An edition of a text that *can be read digitally*.
+
+- Unambiguously identified.
+- Citable in chunks *organic to the text*.
+- Consisting of a declared character set.
+- In a declared language.
+- Subject to *validation* to some extent.
+
 ## Step One: Presentation 
 
 (1/4 of the 40% of Final Essay Grade, 10% of final grade.)

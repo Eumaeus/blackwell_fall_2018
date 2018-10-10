@@ -50,6 +50,13 @@ Present Writing Topics and Skills
 
 Present Topics and Skills
 
+- **Editions**: Latin *editio* (*ek-dare*, "give out"), Greek διόρθωσις, *diorthōsis* ("thorough correction")
+	- Critical Edition: the editor decides among different versions.
+	- Diplomatic Edition: the editor reproduces one version.
+	- Variorum Edition: the editor presents multiple versions.
+	- …
+	- *Digital* Edition: an edition meant to be *read digitally*.
+
 - "Technology" = applied science; ideas that are helpful.
 - "Information technology": the past 3,368 years.
 - The Materialist Fallacy: Mistaking the *tool* for the *job*, or confusing the *medium* with the *message*. (cf. "metonymy")
