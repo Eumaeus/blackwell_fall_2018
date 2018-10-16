@@ -10,6 +10,7 @@
 
 (Newer assignments will appear at the top of the list.)
 
+- For Thursday, October 18: Be prepared to read the sentences in the `unit2.txt` file.
 - For Monday, October 15: Bring in *to hand in* the MS Word version of the output of `analyzeFile("unit2")`. This will be the *draft* version that you will correct and complete by Thursday; it will constitute a major part of your reported midterm grade.
 - For Friday, October 12: Prepare Drill Exercises 1–20 on p. 59 of H&Q.
 - For Thursday, October 11: Study for a quiz on the Principal Parts of πέμπω, παιδεύω, κελεύω, λύω, being able to write them and identify each one as to tense, voice, mood, person, and number. **Know which verb forms are made from which principal part (by reading the chapter in Hansen and Quinn).** Work on the `unit2-template.txt` file in `/ez-morph/documents/`. 
