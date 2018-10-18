@@ -39,12 +39,19 @@
 - 1.1–1.5 (The "Persian Version"; H. states his approach.)
 - 1.6–1.7 (Intro to Croesus, King of Lydia.)
 - 1.8–1.25 (Alyattes, Arion)
+- 1.26–1.45 (Solon, Croesus, Adrastus)
+- 1.46–1.58 (Croesus and the Oracles)
+- 1.58–1.70 (Peisistratus, tyrant of Athens)
 
 ## Topics Discussed
 
 - Dates: BCE/CE, BC/AD. 5th Century BCE (400s).
 - Basic geography: The Greek world is focused on the Aegean sea. Halicarnassus and Athens. Where "Barbarians" live.
 - "Hellene" = "Greek person"; "Hellas" = "Greece"; "Hellenic" = "Greek". But *n.b.* "Hellas" for Herodotus means "wherever in the world there are people who speak Greek, share Greek customs, and worship the same gods." There was no political entity called "Hellas".
+- Herodotus' purpose: 
+	1. so that deeds (Greek and Barbarian) will not be forgotten
+	1. marvellous things
+	1. how Greeks and Barbarians came to fight one another.
 - Phoenicians
 - [Paul Fussell, *The Great War and Modern Memory*](https://www.amazon.com/Great-War-Modern-Memory/dp/0195133323).
 - Sources for Greek mythology. 
@@ -53,9 +60,11 @@
 - Geography, *disambiguation*, *canonical reference*: See <https://pleiades.stoa.org>.
 - Hodological vs. Cartographic thinking; "turn-by-turn" directions vs. looking at a map
 - "Sexy Time" : Selection + Exclusion + Transformation = Map. How this might work for History as well.
-- Delphi and Oracles. Dedications and monuments as "evidence."
+- Delphi and Oracles. Dedications and monuments as "evidence." Gifts to the god in the hope of getting a good answer.
 - Psy-ops in war. Arion and the dolphin.
 - Solon and Fortune (Cleobis and Biton)
+- Peisistratus, aristocratic families, a "third party" (and appeal to the people), P's trick of dressing Phya like Athene, P's eventual resort to foreign money and troops. Escalation of violence against the state by an ambitious leader.
+
 
 ## Reflection
 
