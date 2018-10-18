@@ -15,6 +15,7 @@
 
 (Newer assignments are added at the top of the list)
 
+- For Tuesday, October 23: Read Herodotus 1.71–1.94, on the end of Croesus' empire. Work on the writing assignment.
 - For Tuesday, October 16: Read Herodotus 1.59-1.70, on the Athenians and Spartans. Know how Peisistratos became tyrant of Athens (there are several stories). Bring a laptop to class.
 - For Thursday, October 11: Study for the Greek Alphabet / Transliteration test. Read Herodotus 1.57-1.59. For a quiz grade, e-mail me your GitHub username; make the Subject line of the e-mail say "Greek Civ GitHub User".
 - **No Class Thursday, Oct. 4**.
