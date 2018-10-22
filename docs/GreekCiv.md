@@ -13,6 +13,10 @@
 
 ## Assignments & Dates
 
+[**First Major Writing Assignment**](https://github.com/Eumaeus/blackwell_fall_2018/blob/master/docs/GreekCivWriting1.md)
+
+
+
 (Newer assignments are added at the top of the list)
 
 - For Tuesday, October 23: Read Herodotus 1.71–1.94, on the end of Croesus' empire. Work on the writing assignment.
