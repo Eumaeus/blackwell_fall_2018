@@ -1,4 +1,6 @@
-# Major Writing Assignment
+[eumaeus.github.io](https://eumaeus.github.io) : [courses home](index.md)
+
+# Greek Civilization (CLS-222), Fall 2018: Major Writing Assignment
 
 ## Overview
 
