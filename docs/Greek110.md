@@ -10,6 +10,8 @@
 
 (Newer assignments will appear at the top of the list.)
 
+- For Tuesday, October 23: Study the **six principal parts of θύω and γράφω for a quiz.**
+- For Monday, October 22: Enter into `lexicon.cex` the vocbulary for Unit 3. Validate frequently!! 
 - For Friday, October 19: **If you have not given me a printout of a generated sentences+morphology file for Unit 2, bring one in. This will be the basis for your midterm grade.** Read in Hansen and Quinn, pages 61–67, on new *tenses* and new *moods*. 
 - For Thursday, October 18: Be prepared to read the sentences in the `unit2.txt` file.
 - For Monday, October 15: Bring in *to hand in* the MS Word version of the output of `analyzeFile("unit2")`. This will be the *draft* version that you will correct and complete by Thursday; it will constitute a major part of your reported midterm grade.
