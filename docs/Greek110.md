@@ -10,6 +10,7 @@
 
 (Newer assignments will appear at the top of the list.)
 
+- For Monday, October 29: Enter data for, and try to read, Unit 3 Exercises 1–10. (Start the VM, `vagrant ssh`, `cd /vagrant/ez-morph`, `git pull`, `sbt console`, `:load tools.sc`.)
 - For Thursday, October 25: Enter morphological forms for Drills I and II on pp. 74–75 of H&Q. Validate often!
 - For Tuesday, October 23: Study the **six principal parts of θύω and γράφω for a quiz.**
 - For Monday, October 22: Enter into `lexicon.cex` the vocbulary for Unit 3. Validate frequently!! 
