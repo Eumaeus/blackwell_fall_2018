@@ -50,3 +50,5 @@ For this, you can rely on the text alone; you do not need to do original researc
 1. **10/15/2018** Presentations start. 3 per class on 10/15, 10/17, 10/19, and 10/22.
 
 1. **10/31/2018** Annotated Bibliography. Find *3 or 4* sources that provide helpful information or insight into your topic. *At least one* of them must be related to the *author* (Plutarch or Nepos); *at least one* must be related to the topic (Lysander of Sparta, the Trojan Women after the Trojan War, etc.). Choose sources that are *scholarly* but that would be *helpful to someone coming to this topic without any prior knowledge*. In an electronic document (your choice for this one), give a correct citation to each source, followed by a *short* paragraph explaining what someone might expect to learn from the source. I expect this to be about one page long; if it is two pages, it is too long.
+
+1. **11/12/2019** (Monday). Rough draft of the paper on your ancient essay.
