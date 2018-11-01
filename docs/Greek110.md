@@ -10,7 +10,7 @@
 
 (Newer assignments will appear at the top of the list.)
 
-- For Friday, November 2: Bring in, to hand in for a quiz grade, a printout of the Unit 3 sentences and their data. Be ready to read those sentences in class; if you can't figure out a sentence **be prepared to explain the steps you took trying to read it.** We will start Unit 4 on Monday.
+- For Friday, November 2: Bring in, to hand in for a quiz grade, a printout of the Unit 3 sentences and their data. Be ready to read those sentences in class; if you can't figure out a sentence **be prepared to explain the steps you took trying to read it.** 
 - For Monday, October 29: Enter data for, and try to read, Unit 3 Exercises 1–10. (Start the VM, `vagrant ssh`, `cd /vagrant/ez-morph`, `git pull`, `sbt console`, `:load tools.sc`.)
 - For Thursday, October 25: Enter morphological forms for Drills I and II on pp. 74–75 of H&Q. Validate often!
 - For Tuesday, October 23: Study the **six principal parts of θύω and γράφω for a quiz.**
