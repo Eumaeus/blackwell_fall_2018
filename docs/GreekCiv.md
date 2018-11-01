@@ -17,6 +17,12 @@
 
 (Newer assignments are added at the top of the list)
 
+- For Tuesday, November 6. Work on submitting "issues" for your geography. Skip ahead in Herodotus and read about Persian Customs at 1.130–1.140. Links:
+
+	- [GitHub Repo for Geography](https://github.com/Eumaeus/herodotus_places)
+	- [Pleiades](https://pleiades.stoa.org)
+	- [GeoJSON](http://geojson.io/#map=2/20.0/0.0)
+
 - For Tuesday, October 29: Work on the writing assignment.
 - For Tuesday, October 23: Read Herodotus 1.71–1.94, on the end of Croesus' empire. Work on the writing assignment.
 - For Tuesday, October 16: Read Herodotus 1.59-1.70, on the Athenians and Spartans. Know how Peisistratos became tyrant of Athens (there are several stories). Bring a laptop to class.
