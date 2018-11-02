@@ -67,6 +67,7 @@ Do not include the numbers, or any text except a beta-code / unicode pair for ea
 
 ## Links
 
+- [The Liddell-Scott Lexicon (*LSJ*)](http://folio2.furman.edu/lsj/)
 - [A basic introduction to the Unix command line](https://eumaeus.github.io/2018/09/07/cli.html)
 - [The `fall2018vm` Virtual Machine image](https://github.com/Eumaeus/fall2018vm). Information [here](https://eumaeus.github.io/fall2018vm/)
 - [Type Greek](http://folio.furman.edu/type/): Type beta-code in a web-page; get nice, normalized Unicode that you can copy elsewhere.
