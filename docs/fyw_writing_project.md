@@ -43,7 +43,9 @@ You will present your work to the class, following **but not reading verbatim** 
 
 For this, you can rely on the text alone; you do not need to do original research. At a subsequent stage, you will have to find other sources for the topics discussed in your passage.
 
+## Step Two: Rough Draft
 
+Content here.
 
 ## Due Dates
 
