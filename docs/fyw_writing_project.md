@@ -45,7 +45,7 @@ For this, you can rely on the text alone; you do not need to do original researc
 
 ## Step Two: Rough Draft
 
-Content here.
+Due **Monday, November 12**. 
 
 ## Due Dates
 
