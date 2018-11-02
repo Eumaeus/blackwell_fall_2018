@@ -61,7 +61,6 @@ Your introduction should have the following parts:
 
 Write this in a Markdown file, saved in `/vagrant/fyw/writing/` in your VM.
 
-
 ## Due Dates
 
 1. **10/10/2018** Draft of script for presentation due. Create a **Markdown** file in `…/fall2018vm/fyw/writing/`. If you are in the VM, you can do this with `touch /vagrant/fyw/writing/presentation_script.md`; then you can open it in Atom and type. You will get these back with comments on **Friday, 10/12/2018.**
