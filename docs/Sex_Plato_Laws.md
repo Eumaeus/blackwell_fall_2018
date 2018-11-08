@@ -10,7 +10,7 @@ Passage: Plato, *Laws*, 836b–838d, translated (for the most part) by John Burn
 
 **A note on reading Platonic Dialogues:** It is tempting to see the long utterances of the central character, Socrates in many dialogues, "the Athenian stranger" here, as straightforward expressions of a thesis. But it might be worth considering that these utterances are supposed to be read critically; perhaps sometimes they are ironic or paradoxical.
 
-**A final note on “digital humanities”** Dr. Nair did not invite me to talk about computer stuff, but it is what I do most of the time. At the very end of our discussion, I can say a few things about how computational work in the humanities can be useful, *particularly* for scholars interested in exploring ancient attitudes toward issues that, in recent centuries, became controversial.
+**A final note on “digital humanities”** Obviously, this reading is not about computer stuff, but it is what I do most of the time. At the very end of our discussion, I can say a few things about how computational work in the humanities can be useful, *particularly* for scholars interested in exploring ancient attitudes toward issues that, in recent centuries, became controversial.
 
 ## The Reading from Plato
 
