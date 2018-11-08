@@ -15,8 +15,11 @@
 
 [First Major Writing Assignment](https://github.com/Eumaeus/blackwell_fall_2018/blob/master/docs/GreekCivWriting1.md)
 
+[Final Project]()
+
 (Newer assignments are added at the top of the list)
 
+- For Tuesday, November 13. Read [this handout on sex and laws](https://github.com/Eumaeus/blackwell_fall_2018/blob/master/docs/Sex_Plato_Laws.md). 
 - For Tuesday, November 6. Work on submitting "issues" for your geography. Skip ahead in Herodotus and read about Persian Customs at 1.130–1.140. Links:
 
 	- [GitHub Repo for Geography](https://github.com/Eumaeus/herodotus_places)
