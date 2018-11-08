@@ -4,11 +4,9 @@
 
 ## Overview
 
-I want you each to engage in the text of Herodotus in some significant way that can have an audience of more than one. I have an open mind about what you do.
+I want you each to engage in the text of Herodotus in some significant way that can have an audience of more than one. I have an open mind about what you do. *I will offer special workshops to talk through some of the technical details for some of these.*
 
 **Due Date**: TBA, but around the last day of classes.
-
-I will offer special workshops to talk through some of the technical details for some of these.
 
 ## Grading
 
@@ -23,6 +21,7 @@ I will offer special workshops to talk through some of the technical details for
 - **More Placenames!** Help me get complete coverage of placenames in Hdt. Book 1 and Book 5. You will have to find places, double-check them, and assemble that data into a *specificly formatted file format*. This will be an exercise in close reading, in geography, and in *doing a thing correctly.*
 - **Illustrating Herodotus**. Pick a story, episode, or selection of passages: The myths in the "Persian Version", Arion and the Dolphin, the list of gifts Croesus made to Delphi, and prepare an *illustrated index* consisting of (a) a citation to a passage, and (b) a URL to an *openly licensed* image that *somehow* illustrates the passage. You can be creative about this. You will be expected to submit this in a *specificly formatted file format*.
 - **Word-study paper**. Using searching and N-Gram analysis of Herodotus in English and/or Greek, find something interesting and write about it. In the process, help me clean up my digital edition of Herodotus by documenting errors in a digital edition and helping to fix them. See <http://folio.furman.edu/herodotus.html>.
+- **Mapping the "Royal Road".** [Hdt. 5.52-5.61](http://folio.furman.edu/herodotus.html?urn=urn:cts:greekLit:tlg0016.tlg001.eng:5.52-5.61) describes the "Royal Road" through the Persian Empire. Doing some research, assemble a dataset that maps this road, from point to point. I can help with this.
 - **Something else?** Feel free to pitch me an idea. The rules are (i) engagement with Herodotus, (ii) something someone other than me might find interesting, and (iii) it serves you in some way. Topics: Delphi, Magi, "tyrant", sex?
 
 
