@@ -6,6 +6,10 @@
 
 I want you each to engage in the text of Herodotus in some significant way that can have an audience of more than one. I have an open mind about what you do.
 
+**Due Date**: TBA, but around the last day of classes.
+
+I will offer special workshops to talk through some of the technical details for some of these.
+
 ## Grading
 
 - `A` (90–100): Correct, attractive, insightful. Nothing much to improve on.

@@ -15,7 +15,7 @@
 
 [First Major Writing Assignment](https://github.com/Eumaeus/blackwell_fall_2018/blob/master/docs/GreekCivWriting1.md)
 
-[Final Project]()
+[Final Project](https://github.com/Eumaeus/blackwell_fall_2018/blob/master/docs/GreekCivFinalProject.md)
 
 (Newer assignments are added at the top of the list)
 
