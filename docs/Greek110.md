@@ -10,6 +10,7 @@
 
 (Newer assignments will appear at the top of the list.)
 
+- For Monday, November 12: Do Drills III and IV on pp. 105–106 of H&Q.
 - For Friday, November 9: Write out Drill II on pp. 105–106 of H&Q.
 - For Tuesday, November 6: Write out Drill I, 1–15, (a), (b), and (c), on p.105 of H&Q.
 - For Monday, November 5: Enter the vocabulary for Unit 4 (p. 99 in H&Q) into your data. Read Unit 4, on some more 1st declension nouns, adjectives, and conditional sentences.
