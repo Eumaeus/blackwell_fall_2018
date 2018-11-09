@@ -105,6 +105,7 @@ Present Topics and Skills
 
 ### Links
 
+- [Demo Paper](https://github.com/Eumaeus/blackwell_fall_2018/blob/master/docs/paper_demo.md)
 - [Regular Expression Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/)
 - [CITE App](http://folio.furman.edu/cite.html)
 - [CLI Basics](https://eumaeus.github.io/2018/09/07/cli.html)
