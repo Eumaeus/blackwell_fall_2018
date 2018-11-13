@@ -45,11 +45,15 @@
 Present Writing Topics and Skills
 
 - Some basics: sentences, simple, compound, and complex. Connecting with ";", "and", "but".
-- Logical flow.
+- Logical flow: "Old information → New information"; "broad → narrow";
 - Voice, tense, and mood.
+
 
 Present Topics and Skills
 
+- *For-comprehension*. Do something to everything in a list, without writing a loop.
+- *Method* (`myString.split("[.?!]")`) vs. *function* ( `betterSplit(myString,"[.?!]")` )
+- Version control: `git`
 - **Editions**: Latin *editio* (*ek-dare*, "give out"), Greek διόρθωσις, *diorthōsis* ("thorough correction")
 	- Critical Edition: the editor decides among different versions.
 	- Diplomatic Edition: the editor reproduces one version.
@@ -80,7 +84,7 @@ Present Topics and Skills
 - Citation and Quotation
 - Reading and Analysis
 
-## Skills (Future)
+## Skills 
 
 - Computational vocabulary: physical machine vs. virtual machine, host machine, guest machine.
 - File System: Command-line
