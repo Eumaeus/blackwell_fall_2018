@@ -10,7 +10,7 @@
 
 (Newer assignments will appear at the top of the list.)
 
-- For Thursday, November 15: Study for a **vocabulary quiz** on the words in: Drill V (p.106) and Excercise Sentences 1–3 (p.107). So… look all those words up and be able to give me *English* if I give you *Greek*. There are three prepositions in there: περί, ἀπό, and μετά. In these sentences all of them take a **genitive object**, so be sure you know the correct meaning for that preposition “+ gen.”.
+- For Thursday, November 15: Review from the Chapter the rules for the **six kinds of conditional sentence**: the forms of verbs in the *protasis* and the *apodosis*. Study for a **vocabulary quiz** on the words in: Drill V (p.106) and Excercise Sentences 1–3 (p.107). So… look all those words up and be able to give me *English* if I give you *Greek*. There are three prepositions in there: περί, ἀπό, and μετά. In these sentences all of them take a **genitive object**, so be sure you know the correct meaning for that preposition “+ gen.”.
 - For Tuesday, November 13: For Drill V on p. 106 in H&Q **look up and be able to identify both verbs in each of the first six sentences.**
 - For Monday, November 12: Do Drills III and IV on pp. 105–106 of H&Q.
 - For Friday, November 9: Write out Drill II on pp. 105–106 of H&Q.

@@ -19,6 +19,7 @@
 
 (Newer assignments are added at the top of the list)
 
+- For Thursday, November 15. We'll get back to the Greeks, and head into some Athenian history. Start reading at Hdt. 5.49 (p. 386 in the *Landmark Thucydides*). The year is 499 BCE. Persia has conquered the Greeks of Asia. The tyrant of Miletus, Aristagoras, comes to visit Kleomenes, King of Sparta, to convince him to wage war against Persia. We get to see how a map was used, and we get a little geography lesson. Read through 5.61. H. will talk about Hipparchus, the son of the tyrant Pisistratus, with (of course some parentheses and asides on the subject of writing.) In this section, see how much *information technology* you can identify (you have to have an open mind about what constitutes "information technology").
 - For Tuesday, November 13. Read [this handout on sex and laws](https://github.com/Eumaeus/blackwell_fall_2018/blob/master/docs/Sex_Plato_Laws.md). 
 - For Tuesday, November 6. Work on submitting "issues" for your geography. Skip ahead in Herodotus and read about Persian Customs at 1.130–1.140. Links:
 
