@@ -10,6 +10,7 @@
 
 (Newer assignments will appear at the top of the list.)
 
+- [A **Study Guide for the Final** is online.](https://github.com/Eumaeus/blackwell_fall_2018/blob/master/docs/Greek110_study.md)
 - For Monday, November 26: Have the Unit 4 sentences fully documented. This will be an important basis for the final exam.
 - For Friday, November 16: Bring your laptop to class. Be ready to translate in public any of the sentences in Drill V or Exercises 1–3. We will work on the other Exercise sentences together, including documenting their vocabulary and forms.
 - For Thursday, November 15: Review from the Chapter the rules for the **six kinds of conditional sentence**: the forms of verbs in the *protasis* and the *apodosis*. Study for a **vocabulary quiz** on the words in: Drill V (p.106) and Excercise Sentences 1–3 (p.107). So… look all those words up and be able to give me *English* if I give you *Greek*. There are three prepositions in there: περί, ἀπό, and μετά. In these sentences all of them take a **genitive object**, so be sure you know the correct meaning for that preposition “+ gen.”.
