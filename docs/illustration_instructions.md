@@ -30,3 +30,7 @@ You may have more than one illustration for the same cited passage. For example,
 
 Go to <http://folio.furman.edu/herodotus.html> and paste a Herodotus URN into the URN field in the upper-left of the screen. Click "Retrieve Passage". If you see the passage of Herodotus, it is a valid URN. The web-app will tell you if it not valid. **This is the important thing to get right.**
 
+## How to invoke Fair Use:
+
+"Used under the doctrine of Fair Use: a small sample reused for a non-commercial, educational, creative analysis."
+
