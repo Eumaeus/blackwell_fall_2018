@@ -6,7 +6,7 @@
 
 I want you each to engage in the text of Herodotus in some significant way that can have an audience of more than one. I have an open mind about what you do. *I will offer special workshops to talk through some of the technical details for some of these.*
 
-**Due Date**: TBA, but around the last day of classes.
+**Due Date**: Handed in to me by e-mail, no later than **Monday, December 17, at 12:00 (noon)**. You may of course hand it in earlier. You are not done until you have received an email back from me saying "I got this."
 
 ## Grading
 
