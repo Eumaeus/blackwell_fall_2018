@@ -27,3 +27,5 @@ I want you each to engage in the text of Herodotus in some significant way that 
 ## Final Note on the Data Projects
 
 Projects involving illustration or places are *data projects*. These will be evaluated according to **correctness** (is that actually Sardis), **insight** (is that an accurate illustration, or a creative and informative illustration), **validity** (is the file plain-text, named correctly, with the correct columns). The last, **validity** is hardest. I have not given you a full suite of tools to help with that, and my standards will be adjusted downward accordingly, but I want to see good effort toward getting it right.
+
+I would like, for each of these, a **separate document** (MS Word or whatever) with a *brief* description of what you did… what passages of Herodotus you covered, and what those passages contain.
