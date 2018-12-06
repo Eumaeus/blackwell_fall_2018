@@ -1,3 +1,4 @@
 id#text-urn#rights#image-url#caption
 blackwell_1#urn:cts:greekLit:tlg0016.tlg001.eng:1.6#https://en.wikipedia.org/wiki/File:Croesus_portrait.jpg#https://upload.wikimedia.org/wikipedia/commons/7/7c/Croesus_portrait.jpg#Portrait of Croesus, Attic red-figure amphora, painted ca. 500–490 BC
+blackwell_2#urn:cts:greekLit:tlg0016.tlg001.eng:1.6#https://commons.wikimedia.org/wiki/File:A_description_of_the_East,_and_some_other_countries_(1743)_(14770157571).jpg#https://upload.wikimedia.org/wikipedia/commons/a/ae/A_description_of_the_East%2C_and_some_other_countries_%281743%29_%2814770157571%29.jpg#"A description of the East, and some other countries (1743)." A map from  Pococke, Richard, 1704-1765, Gravelot, Hubert François, 1699-1773, Grignion, Charles, 1721-1810 showing the Halys River in Asia Minor.
 
