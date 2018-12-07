@@ -10,6 +10,7 @@
 
 (Newer assignments will appear at the top of the list.)
 
+- [Instructions for generating web-views and MS Word reports from morphological data](https://github.com/Eumaeus/blackwell_fall_2018/blob/master/docs/Greek_workflow_short.md)
 - [A **Study Guide for the Final** is online.](https://github.com/Eumaeus/blackwell_fall_2018/blob/master/docs/Greek110_study.md)
 - For Monday, November 26: Have the Unit 4 sentences fully documented. This will be an important basis for the final exam.
 - For Friday, November 16: Bring your laptop to class. Be ready to translate in public any of the sentences in Drill V or Exercises 1–3. We will work on the other Exercise sentences together, including documenting their vocabulary and forms.
